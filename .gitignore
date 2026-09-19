@@ -1,0 +1,22 @@
+.class
+.jar
+.war
+.ear
+
+# Build tools
+target/
+build/
+out/
+.gradle/
+
+# IDE and editor files
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+.vscode/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
